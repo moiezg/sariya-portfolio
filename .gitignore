@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+
+# Ignore large source PDF
+Untitled (1).pdf
+
+# Ignore node modules or scratch environments if any
+node_modules/
+.env
+venv/
+*.log
